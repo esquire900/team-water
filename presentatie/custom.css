@@ -1,0 +1,11 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 {
+    font-weight: bold;
+    color: #004491
+}
+
+body {
+    background: url("logo.jpg");
+    background-size: 10%;
+    background-position: 5% 5%;
+    background-repeat: no-repeat
+}
