@@ -4,8 +4,8 @@
 }
 
 body {
-    background: url("logo.jpg");
-    background-size: 10%;
-    background-position: 5% 5%;
-    background-repeat: no-repeat
+    background: url("logo.jpg"), url("logo_water.png"), url("logo_zorg.png"), url("logo_wonen.png");
+    background-size: 10%, 10%, 10%, 10%;
+    background-position: 5% 5%, 95% 5%, 80% 5%, 65% 5%;
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
 }
